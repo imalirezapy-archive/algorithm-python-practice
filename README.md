@@ -1,2 +1,2 @@
 # triangles
-Enter the number of  rows of triangles
+Enter the number of rows in the triangle
