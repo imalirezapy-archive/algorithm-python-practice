@@ -1,3 +1,5 @@
+# By: https://code.sololearn.com/c32ZubnjdYBd/?ref=app
+
 n = int(input())
 t = 5 # triangle size
 m = lambda v: v*2*(t-1)+1
